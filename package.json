@@ -1,0 +1,17 @@
+{
+  "name": "softky---hebergbot-js-heberge-gestions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "glob": "^7.2.0",
+    "pteroly": "^1.9.5",
+    "request": "^2.88.2"
+  },
+  "author": "georges_des5",
+  "license": "ISC"
+}
